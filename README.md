@@ -1,12 +1,10 @@
 # Student Record Management System
-==================================
 
 This is a  mini project built using **Node.js**, **Express.js**, and a frontend with **HTML + Bootstrap**.  
 
 It provides a simple UI to perform CRUD operations (Create, Read, Update, Delete) on student records.
 
 ##  Features
-======================
 
 -  Add new student (Name, Age, Course)
 -  
@@ -20,7 +18,6 @@ It provides a simple UI to perform CRUD operations (Create, Read, Update, Delete
   
 
 ##  Project Structure
-================================
 
 student-record-management/
 ├── public/  
@@ -31,7 +28,6 @@ student-record-management/
 
 
 ##  Setup & Run Locally
-=========================
 
 1. **Clone the repository**
 
