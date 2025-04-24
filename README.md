@@ -1,4 +1,4 @@
-# Student Record Management System
+# Student Record Management System API
 
 This is a  mini project built using **Node.js**, **Express.js**, and a frontend with **HTML + Bootstrap**.  
 
